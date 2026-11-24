@@ -1,11 +1,25 @@
+![A weathered desert temple transforms into a golden game world under a bright blue sky](./desert-restoration-banner.png)
+
 # Good Trip Good Tip
 
 **Giving old games a second life.**
 
-I focus on game projects and mods that make older games easier to run and more fun to revisit. I also occasionally make small tools and share them here.
-
-I build and test these projects with [OpenAI Codex](https://github.com/openai/codex) as my AI co-developer. Projects I release here credit Codex in their README. [OpenAI on GitHub](https://github.com/openai)
+I make game projects and mods that help older games run comfortably on modern setups and give players new ways to revisit them. I also share the occasional small tool from a side project.
 
 ## In the works
 
-**NeonLoop** is a Windows mod for *2064: Read Only Memories* with a resizable window, adjustable visual effects, and optional soundtracks.
+### NeonLoop
+
+![NeonLoop concept art showing a neon desktop with symbols for window resizing, visual effects, and soundtracks](./neonloop-project-illustration.png)
+
+**NeonLoop** is a Windows mod in development for *2064: Read Only Memories*.
+
+- Resize the game window to fit your setup.
+- Adjust the visual effects to suit your screen.
+- Choose from optional soundtracks for another playthrough.
+
+---
+
+[Browse my repositories](https://github.com/goodtripgoodtip?tab=repositories)
+
+I build and test these projects with [OpenAI Codex](https://github.com/openai/codex) as my AI co-developer. Projects I release here credit Codex in their README. [OpenAI on GitHub](https://github.com/openai)

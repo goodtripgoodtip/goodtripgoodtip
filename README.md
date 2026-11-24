@@ -1,8 +1,8 @@
 # Good Trip Good Tip
 
-**Practical tools, game mods, and side projects.**
+**Giving old games a second life.**
 
-I make small tools that simplify everyday tasks, automate repetitive work, and make older games easier to set up and enjoy.
+I focus on game projects and mods that make older games easier to run and more fun to revisit. I also occasionally make small tools and share them here.
 
 I build and test these projects with [OpenAI Codex](https://github.com/openai/codex) as my AI co-developer. Projects I release here credit Codex in their README. [OpenAI on GitHub](https://github.com/openai)
 

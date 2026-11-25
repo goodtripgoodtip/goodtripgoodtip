@@ -4,7 +4,7 @@
 
 **Giving old games a second life.**
 
-I make game projects and mods that help older games run comfortably on modern setups and give players new ways to revisit them. I also share the occasional small tool from a side project.
+Mods for classic games, made by a pro game dev. I also share the occasional small tool from a side project.
 
 ## In the works
 

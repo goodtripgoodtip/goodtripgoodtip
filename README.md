@@ -20,6 +20,12 @@ Mods for classic games, made by an ex game dev with 30 years in the industry. I 
 
 ---
 
+### Game Setup Kit
+
+A guided Windows installer for games and mods. The offline demo lets you try setup with an included example game.
+
+[GitHub repository](https://github.com/goodtripgoodtip/GameSetupKit) · [Download the offline demo](https://github.com/goodtripgoodtip/GameSetupKit/releases/download/v0.8.1/GameSetupKit-Windows-Demo-Offline-v0.8.1.zip)
+
 [Browse my repositories](https://github.com/goodtripgoodtip?tab=repositories)
 
 I build and test these projects with [OpenAI Codex](https://github.com/openai/codex) as my AI co-developer. Projects I release here credit Codex in their README. [OpenAI on GitHub](https://github.com/openai)

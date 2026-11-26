@@ -4,7 +4,7 @@
 
 **Giving old games a second life.**
 
-Mods for classic games, made by a pro game dev. I also share the occasional small tool from a side project.
+Mods for classic games, made by an ex game dev with 30 years in the industry. I also share the occasional small tool from a side project.
 
 ## In the works
 
